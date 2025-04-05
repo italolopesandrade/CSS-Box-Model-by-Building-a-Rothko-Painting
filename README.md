@@ -1,2 +1,2 @@
 # CSS-Box-Model-by-Building-a-Rothko-Painting
-HTML, CSS.
+Pure HTML and pure CSS.
